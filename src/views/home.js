@@ -27,6 +27,11 @@ const Home = (props) => {
         poster="https://play.teleporthq.io/static/svg/videoposter.svg"
         className="home-video2"
       ></video>
+      <video
+        src="/vyber-fotek-do-par-minut_klicove-snimky3.mp4"
+        poster="https://play.teleporthq.io/static/svg/videoposter.svg"
+        className="home-video3"
+      ></video>
     </div>
   )
 }
